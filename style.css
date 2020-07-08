@@ -1,0 +1,171 @@
+.logo{
+    height: 59px;
+    width: 198px;
+    padding: 5px;
+}
+
+span{
+    color: #21B573;
+
+}
+
+.top-line h1{
+
+    font-weight: 700;
+}
+
+.btn{
+    border: none;
+    border-radius: 30px;
+    background-color: #21B573;
+    margin-top: 0;
+    margin-left: 5px;
+    padding: 8px 20px;
+    color: white;
+}
+
+.header-img{
+    padding: 30px;
+}
+
+.header-info h5{
+    color: #FD511A;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+}
+
+.headder-info h1{
+    font-size: 40px;
+    font-weight: bold  ;
+    line-height: 1.2;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.box{
+    margin-top: 90px;
+    height: 230px;
+    width: 230px;
+    border: none;
+    background-color: #f8fffb;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+
+
+.box:hover{
+    background-color: white;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+
+
+.box1{
+    margin-top: 30px;
+    height: 230px;
+    width: 230px;
+    border: none;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+
+
+.img-info{
+    width: 66px;
+    height: 75px;
+    margin: 40px 82px;
+}
+
+.courses{
+    margin-top: 30px;
+}
+
+.courses img{
+    width: 311px;
+    height: 214px;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+
+.card-footer{
+    margin-top: none;
+    background-color: white;
+    border-top: none;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+
+.courses{
+    margin-top: 100px;
+}
+
+.courses h3{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.card-body{
+    padding-left: 30px;
+}
+
+.footer-icon img{
+    height: 20px;
+    width: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-icon small{
+    font-size: 15px;
+}
+
+
+.testimonial img{
+    height: 90px;
+    width: 110px;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+.testimonial-texts{
+    margin-top: 40px;
+    text-align: justify;
+    
+}
+
+.testimonial{
+    margin-top: 100px;
+}
+
+.testimonial h3{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+footer ul li{
+    list-style: none;
+}
+
+footer ul li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.footer-preference{
+    margin-top: 70px;
+    background-color:#282531;
+}
+
+.footer-preference p{
+    color: white;
+    padding-top: 30px;
+}
+
+.footer-copyright{
+    color: white;
+}
